@@ -1,2 +1,2 @@
-# COOL-ASSIGNMENT
+# first class assignement
 IM adding stuff!!!
